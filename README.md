@@ -1,6 +1,8 @@
 # data subfolder
 This is the 'data' subfolder for this game: https://github.com/davidjoffe/dave_gnukem
 
+*NB This folder is essential for the game to run*
+
 To use this using git, clone the main game, e.g.:
 
 `git clone https://github.com/davidjoffe/gnukem_datasrc.git`
