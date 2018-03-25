@@ -16,4 +16,5 @@ levels/d_lev1.lev,data/levels/bg1.tga,OldLevel,David Joffe
 5,sprites/sprites05.tga,sprites/def5spr.dat,Bullets etc
 6,sprites/sprites06.tga,sprites/def6spr.dat,monsters
 7,sprites/sprites07.tga,sprites/def7spr.dat,monsters
+16,sprites/sprites16.tga,sprites/sprites16_metadata.dat,Rocket etc.
 ~
