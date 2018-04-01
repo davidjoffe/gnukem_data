@@ -1,11 +1,11 @@
 Default Dave Gnukem 1 Levels
 Default set of levels for Dave Gnukem 1.
 ~
-levels/level1.lev,data/levels/bg1.tga,Level 1,Evilmrhenry
-levels/level2.lev,data/levels/bg1.tga,Level 2,Evilmrhenry
-levels/level3.lev,data/levels/bg1.tga,Level 1,Evilmrhenry
-levels/sjm2.lev,data/levels/bg1.tga,Steve's second level,Steve Merrifield
-levels/dj0.lev,data/levels/bg2.tga,Used to be a test-stuff-out level,David Joffe
+levels/level1.lev,data/levels/citybackdrop.tga,Level 1,Evilmrhenry
+levels/level2.lev,data/levels/citybackdrop.tga,Level 2,Evilmrhenry
+levels/level3.lev,data/levels/citybackdrop.tga,Level 1,Evilmrhenry
+levels/sjm2.lev,data/levels/citybackdrop.tga,Steve's second level,Steve Merrifield
+levels/dj0.lev,data/levels/citybackdrop.tga,David's level; used to be a test-stuff-out level,David Joffe
 levels/sjm001.lev,data/levels/bg1.tga,Steve's Level,Steve Merrifield
 ~
 0,sprites/sprites00.tga,sprites/def0spr.dat,General
