@@ -64,3 +64,4 @@ With respect to particular **data items**, the following license conditions appl
 
 Apart from the abovementioned, all other data included with 'version 1' is dual-licensed under MIT license or GPL.
 
+Additional game data credits: Apart from the abovementioned, most the sprites were done by David Joffe (with some major contributions by Evil Mr Henry http://www.emhsoft.com/ including the main character sprites). Steve Merrifield made major level editing contributions. Apologies if anyone left out.
